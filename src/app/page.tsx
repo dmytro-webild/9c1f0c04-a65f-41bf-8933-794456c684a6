@@ -86,16 +86,16 @@ export default function LandingPage() {
                 "http://img.b2bpic.net/free-photo/shocked-woman-calling-plumber-while-collecting-water-leaking-from-ceiling-using-utensil_657921-1199.jpg",              imageAlt: "Emergency plumbing service"},
             {
               id: "leak-detection",              title: "Leak Detection & Repairs",              description: "Accurate diagnosis and long-lasting repairs for hidden or visible leaks.",              tag: "Advanced Diagnostics",              imageSrc:
-                "http://img.b2bpic.net/free-photo/male-worker-operating-machinery-factory_107420-96043.jpg",              imageAlt: "Leak detection and repair"},
+                "http://img.b2bpic.net/free-photo/male-worker-operating-machinery-factory_107420-96043.jpg?_wi=1",              imageAlt: "Leak detection and repair"},
             {
               id: "water-line",              title: "Water Line Repair",              description: "From small repairs to full replacements for older plumbing systems.",              tag: "Full Replacements",              imageSrc:
-                "http://img.b2bpic.net/free-photo/male-worker-operating-machinery-factory_107420-96043.jpg",              imageAlt: "Water line services"},
+                "http://img.b2bpic.net/free-photo/male-worker-operating-machinery-factory_107420-96043.jpg?_wi=2",              imageAlt: "Water line services"},
             {
               id: "sewer",              title: "Sewer Line Services",              description: "Inspection, repair and replacement to keep everything flowing properly.",              tag: "Inspection & Repair",              imageSrc:
-                "http://img.b2bpic.net/free-photo/male-worker-operating-machinery-factory_107420-96043.jpg",              imageAlt: "Sewer line services"},
+                "http://img.b2bpic.net/free-photo/male-worker-operating-machinery-factory_107420-96043.jpg?_wi=3",              imageAlt: "Sewer line services"},
             {
               id: "inspections",              title: "Plumbing Inspections",              description: "Thorough inspections with clear recommendations and transparent pricing.",              tag: "Transparent Pricing",              imageSrc:
-                "http://img.b2bpic.net/free-photo/male-worker-operating-machinery-factory_107420-96043.jpg",              imageAlt: "Professional plumbing inspection"},
+                "http://img.b2bpic.net/free-photo/male-worker-operating-machinery-factory_107420-96043.jpg?_wi=4",              imageAlt: "Professional plumbing inspection"},
             {
               id: "full-projects",              title: "Full Home Plumbing Projects",              description: "From bathroom remodel plumbing to full system replacements.",              tag: "Complete Solutions",              imageSrc:
                 "http://img.b2bpic.net/free-photo/male-plumber-working-fix-problems-client-s-house_23-2150990698.jpg",              imageAlt: "Full home plumbing project"},
@@ -151,7 +151,7 @@ export default function LandingPage() {
               title: "Respect for Your Home",              description: "Clean, professional technicians who treat your home with care.",              icon: Home,
             },
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/male-worker-operating-machinery-factory_107420-96043.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/male-worker-operating-machinery-factory_107420-96043.jpg?_wi=5"
           imageAlt="Kenzie Plumbing professional service"
           mediaAnimation="slide-up"
           textboxLayout="default"
