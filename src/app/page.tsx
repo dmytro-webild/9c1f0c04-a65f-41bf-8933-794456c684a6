@@ -66,7 +66,7 @@ export default function LandingPage() {
       <div id="trust-bar" data-section="trust-bar">
         <SocialProofOne
           names={[
-            "★★★★★ Trusted by Local Homeowners",            "Fast Response Times",            "Fair & Transparent Pricing",            "Experienced Technicians",            "Respectful of Your Home"]}
+            "★★★★★ 5-Star Reviews",            "Same-Day Emergency Response",            "Fair & Transparent Pricing",            "Expert Local Technicians",            "Your Home Treated with Care"]}
           title="Why Hobbs Homeowners Choose Kenzie"
           description="Proven local expertise with a commitment to honesty and professionalism."
           textboxLayout="default"
