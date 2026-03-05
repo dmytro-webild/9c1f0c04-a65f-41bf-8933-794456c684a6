@@ -53,7 +53,7 @@ export default function LandingPage() {
             {
               src: "http://img.b2bpic.net/free-photo/male-worker-operating-machinery-factory_107420-96043.jpg",              alt: "Professional Inspection"},
           ]}
-          avatarText="Serving Hobbs, Seminole and nearby communities"
+          avatarText="Trusted by 500+ Local Homeowners"
           buttons={[
             { text: "CALL NOW (575) 397-3218", href: "tel:(575)397-3218" },
             { text: "Request Service", href: "#contact-cta" },
